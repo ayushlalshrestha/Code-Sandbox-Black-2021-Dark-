@@ -2235,5 +2235,13 @@
 				"foreground": "#9CDCFE"
 			}
 		}
-	]
+	],
+	"semanticTokenColors": {
+		"type": "#26A69A",
+		"function": "#DCDCAA",
+		"namespace": "#00897B",
+		"variable": "#9CDCFE",
+		"*.static": "#9CDCFE"
+    },
+	"semanticHighlighting": true
 }

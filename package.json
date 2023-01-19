@@ -1,14 +1,20 @@
 {
   "name": "codesandbox-dark-plus",
   "displayName": "CodeSandBox Dark+",
-  "description": "Darkest Version of the CodeSandBox Black 2021",
+  "description": "CodeSandBox Black 2021 - Darkest",
   "version": "0.0.1",
+  "publisher": "Ayush Shrestha",
   "engines": {
     "vscode": "^1.74.0"
   },
   "categories": [
     "Themes"
   ],
+  "license": "MIT",
+  "repository": {
+    "url": "github.com/ayushlalshrestha/CodeSandbox-Black-Dark-plus",
+    "type": "git"
+  },
   "contributes": {
     "themes": [
       {

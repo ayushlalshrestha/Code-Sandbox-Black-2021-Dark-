@@ -1,16 +1,21 @@
 # codesandbox-dark-plus README
 
-## Working with Markdown
+This is the official theme used by [codesandbox.io](https://codesandbox.io/), with a little bit of tweaking.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Note: Recommended font is Monolisa or Menlo
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+---
+## Installation
+For now, use the `.vsix` installer in the `vsix` folder to [install from vsix](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix)
 
-## For more information
+---
+## Preview - Python
+![Theme Preview - Python](https://raw.githubusercontent.com/ayushlalshrestha/CodeSandbox-Black-Dark-plus/main/screenshots/Python.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
+## Preview - Go
+![Theme Preview - Go](https://raw.githubusercontent.com/ayushlalshrestha/CodeSandbox-Black-Dark-plus/main/screenshots/Go.png)
 
-**Enjoy!**
+---
+## Preview - Javascript
+![Theme Preview - Javascript](https://raw.githubusercontent.com/ayushlalshrestha/CodeSandbox-Black-Dark-plus/main/screenshots/JS.png)
